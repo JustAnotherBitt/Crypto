@@ -1,4 +1,4 @@
-# Encrypted Payload Dropper
+# Crypter
 
 ## 🔹Description
 This script encrypts an executable (payload) using AES encryption and generates a decryption stub. The stub decrypts and executes the payload, making detection and analysis more difficult. It is designed for educational purposes and security research.
