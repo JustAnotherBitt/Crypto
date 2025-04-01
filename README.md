@@ -69,4 +69,5 @@ Run the generated executable (`dist/stub.exe`). This will decrypt and execute th
 ## ⚠ Disclaimer
 Use this script only in controlled environments such as penetration testing labs, with explicit permission. Misuse of this tool for unauthorized access to systems is illegal and may result in severe consequences. **The risk is yours**.
 
-
+## Observation
+- The antivirus may detect suspicious activity during the creation of the executable. To minimize this risk, it is recommended to **disable the antivirus and firewall** while generating the executable. 
