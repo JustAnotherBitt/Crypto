@@ -37,7 +37,7 @@ Place the `shell.exe` file in the script's directory.
 ### 2️⃣ Encrypt the Payload
 Run the script:
 ```bash
-python script.py
+python crypto.py
 ```
 It will generate `stub.py` and convert it into an executable inside the `dist` folder.
 
